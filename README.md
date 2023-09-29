@@ -1,8 +1,6 @@
 <h1 >Hi 👋, I'm Tunahan</h1>
 <h3 >A passionate frontend developer and Computer Engineering student from Turkey.</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **tunahan_gediz@icloud.com**
 
 <h3 >Languages and Tools:</h3>
